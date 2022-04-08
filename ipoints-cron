@@ -1,0 +1,6 @@
+* * * * * root touch /var/www/html/application/logs/cron-debug-log.txt && echo "Hello world" >> /var/www/html/application/logs/cron-debug-log.txt
+* * * * * root sleep 7; touch /var/www/html/application/logs/cron-debug-log.txt && /usr/local/bin/php /var/www/html/index.php cli utilities processQueueMessages "Email" 1 >> /var/www/html/application/logs/cron-debug-log.txt
+* * * * * root sleep 5; touch /var/www/html/application/logs/cron-debug-log.txt && /usr/local/bin/php /var/www/html/index.php cli utilities processQueueMessages "Sms" 1 >> /var/www/html/application/logs/cron-debug-log.txt
+* * * * * root sleep 10; touch /var/www/html/application/logs/cron-debug-log.txt && /usr/local/bin/php /var/www/html/index.php cli utilities dualProcessQueueMessages 3 >> /var/www/html/application/logs/cron-debug-log.txt
+* * * * * root sleep 15; touch /var/www/html/application/logs/cron-debug-log.txt && /usr/local/bin/php /var/www/html/index.php cli utilities dualProcessQueueMessages 2 >> /var/www/html/application/logs/cron-debug-log.txt
+* * * * * root echo "Hello world" >> /var/www/html/application/logs/cron-debug-log.txt

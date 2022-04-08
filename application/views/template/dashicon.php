@@ -1,0 +1,266 @@
+<div class="breadcrumb">
+	<a href="">Home</a> 
+	<a href="">Products</a> 
+	<a href="">Iphone 6</a>
+</div>
+<div class="content">
+	<div class="panel">
+		<div class="content-header no-mg-top">
+			<i class="fa fa-newspaper-o"></i>
+			<div class="content-header-title">Dash Icons</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="content-box">
+					<div class="icon-list-wrapper">
+						<div id="web-application">
+							<div class="row">
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-appearance" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-appearance</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-collapse" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-collapse</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-comments" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-comments</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-customizer" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-customizer</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-generic" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-generic</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-home" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-home</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-links" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-links</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-media" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-media</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-multisite" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-multisite</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-network" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-network</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-page" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-page</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-plugins" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-plugins</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-post" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-post</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-settings" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-settings</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-site" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-site</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-tools" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-tools</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-admin-users" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-admin-users</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-album" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-album</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-align-center" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-align-center</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-align-full-width" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-align-full-width</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-align-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-align-left</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-align-none" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-align-none</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-align-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-align-right</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-analytics" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-analytics</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-archive" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-archive</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-down-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-down-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-down-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-down-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-down</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-left-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-left-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-left-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-left-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-left</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-right-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-right-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-right-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-right-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-right</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-up-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-up-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-up-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-up-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-arrow-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-arrow-up</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-art" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-art</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-awards" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-awards</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-backup" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-backup</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-book-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-book-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-book" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-book</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-building" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-building</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-businessman" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-businessman</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-button" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-button</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-calendar-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-calendar-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-calendar" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-calendar</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-camera" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-camera</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-carrot" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-carrot</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-cart" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-cart</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-category" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-category</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-chart-area" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-chart-area</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-chart-bar" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-chart-bar</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-chart-line" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-chart-line</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-chart-pie" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-chart-pie</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-clipboard" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-clipboard</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-clock" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-clock</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-cloud" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-cloud</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-back" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-back</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-forward" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-forward</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-pause" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-pause</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-play" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-play</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-repeat" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-repeat</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-skipback" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-skipback</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-skipforward" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-skipforward</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-volumeoff" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-volumeoff</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-controls-volumeon" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-controls-volumeon</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-dashboard" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-dashboard</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-desktop" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-desktop</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-dismiss" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-dismiss</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-download" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-download</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-edit" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-edit</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-aligncenter" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-aligncenter</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-alignleft" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-alignleft</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-alignright" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-alignright</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-bold" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-bold</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-break" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-break</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-code" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-code</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-contract" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-contract</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-customchar" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-customchar</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-expand" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-expand</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-help" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-help</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-indent" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-indent</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-insertmore" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-insertmore</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-italic" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-italic</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-justify" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-justify</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-kitchensink" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-kitchensink</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-ol" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-ol</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-outdent" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-outdent</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-paragraph" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-paragraph</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-paste-text" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-paste-text</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-paste-word" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-paste-word</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-quote" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-quote</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-removeformatting" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-removeformatting</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-rtl" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-rtl</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-spellcheck" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-spellcheck</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-strikethrough" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-strikethrough</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-table" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-table</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-textcolor" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-textcolor</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-ul" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-ul</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-underline" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-underline</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-unlink" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-unlink</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-editor-video" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-editor-video</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-email-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-email-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-email-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-email-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-email" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-email</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-exerpt-view" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-exerpt-view</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-external" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-external</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-facebook-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-facebook-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-facebook" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-facebook</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-feedback" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-feedback</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-filter" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-filter</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-flag" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-flag</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-aside" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-aside</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-audio" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-audio</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-chat" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-chat</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-gallery" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-gallery</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-image" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-image</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-quote" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-quote</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-status" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-status</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-format-video" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-format-video</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-forms" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-forms</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-googleplus" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-googleplus</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-grid-view" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-grid-view</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-groups" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-groups</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-hammer" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-hammer</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-heading" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-heading</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-heart" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-heart</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-hidden" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-hidden</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-id-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-id-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-id" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-id</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-crop" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-crop</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-filter" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-filter</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-flip-horizontal" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-flip-horizontal</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-flip-vertical" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-flip-vertical</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-rotate-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-rotate-left</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-rotate-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-rotate-right</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-image-rotate" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-image-rotate</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-images-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-images-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-images-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-images-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-index-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-index-card</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-info" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-info</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-insert" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-insert</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-laptop" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-laptop</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-layout" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-layout</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-leftright" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-leftright</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-lightbulb" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-lightbulb</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-list-view" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-list-view</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-location-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-location-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-location" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-location</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-lock" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-lock</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-marker" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-marker</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-archive" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-archive</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-audio" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-audio</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-code" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-code</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-default" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-default</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-document" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-document</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-interactive" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-interactive</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-spreadsheet" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-spreadsheet</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-text" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-text</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-media-video" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-media-video</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-megaphone" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-megaphone</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-menu-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-menu-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-menu" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-menu</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-microphone" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-microphone</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-migrate" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-migrate</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-minus" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-minus</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-money" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-money</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-move" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-move</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-nametag" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-nametag</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-networking" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-networking</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-no-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-no-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-no" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-no</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-palmtree" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-palmtree</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-paperclip" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-paperclip</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-performance" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-performance</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-phone" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-phone</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-playlist-audio" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-playlist-audio</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-playlist-video" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-playlist-video</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-plus-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-plus-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-plus-light" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-plus-light</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-plus" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-plus</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-portfolio" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-portfolio</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-post-status" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-post-status</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-pressthis" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-pressthis</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-products" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-products</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-randomize" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-randomize</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-redo" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-redo</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-rss" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-rss</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-saved" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-saved</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-schedule" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-schedule</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-screenoptions" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-screenoptions</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-search" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-search</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-share-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-share-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-share-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-share-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-share" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-share</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-shield-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-shield-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-shield" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-shield</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-slides" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-slides</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-smartphone" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-smartphone</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-smiley" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-smiley</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-sort" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-sort</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-sos" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-sos</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-star-empty" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-star-empty</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-star-filled" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-star-filled</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-star-half" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-star-half</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-sticky" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-sticky</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-store" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-store</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-tablet" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-tablet</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-tag" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-tag</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-tagcloud" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-tagcloud</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-testimonial" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-testimonial</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-text" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-text</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-thumbs-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-thumbs-down</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-thumbs-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-thumbs-up</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-tickets-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-tickets-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-tickets" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-tickets</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-translation" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-translation</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-trash" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-trash</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-twitter" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-twitter</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-undo" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-undo</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-universal-access-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-universal-access-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-universal-access" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-universal-access</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-unlock" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-unlock</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-update" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-update</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-upload" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-upload</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-vault" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-vault</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-video-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-video-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-video-alt2" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-video-alt2</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-video-alt3" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-video-alt3</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-visibility" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-visibility</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-warning" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-warning</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-welcome-add-page" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-welcome-add-page</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-welcome-comments" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-welcome-comments</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-welcome-learn-more" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-welcome-learn-more</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-welcome-view-site" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-welcome-view-site</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-welcome-widgets-menus" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-welcome-widgets-menus</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-welcome-write-blog" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-welcome-write-blog</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-wordpress-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-wordpress-alt</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-wordpress" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-wordpress</a></div>
+								<div class="fa-hover col-md-3 col-sm-4"><a href="../icon/address-book"><i class="dashicons dashicons-yes" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashicons-yes</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

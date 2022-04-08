@@ -1,0 +1,48 @@
+.validation-message {
+	color: #d9534f;
+	margin-top: .50rem;
+}
+.hidden {
+	display: none
+}
+
+label.check-label a, .pull-right.auth-link a, .auth-footer a {
+
+    color: #500!important;
+    text-decoration: none;
+
+}
+
+label.check-label a:hover,  .pull-right.auth-link a:hover, .auth-footer a:hover {
+    text-decoration: underline!important;
+
+}
+
+
+.btn-success, .btn-primary {
+
+    color: #fff;
+    background-color: #A50!important;
+    border-color: #520;
+
+}
+.btn-primary:hover,.btn-primary:focus, .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.dropdown-toggle:hover, .btn-success.dropdown-toggle:focus, .btn-success.dropdown-toggle:active {
+
+    background-color: #F80 !important;
+
+}
+.btn-success:hover {
+
+    color: #fff;
+    background-color: #F80!important;
+    border-color: #A50!important;
+
+}
+.btn-outline-secondary {
+
+    color: #6c757d;
+    background-color: transparent;
+    background-image: none;
+    border-color: #A50;
+
+}
